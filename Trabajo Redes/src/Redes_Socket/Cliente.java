@@ -14,7 +14,7 @@ import java.net.*;
 import java.io.*;
 
 public class Cliente extends Frame implements ActionListener, Runnable, KeyListener {
-
+//hola
     Socket soket;
     BufferedReader lectura;
     BufferedWriter escritura;
