@@ -15,6 +15,7 @@ import java.io.*;
 
 public class Cliente extends Frame implements ActionListener, Runnable, KeyListener {
 //hola
+    //procesos
     Socket soket;
     BufferedReader lectura;
     BufferedWriter escritura;
